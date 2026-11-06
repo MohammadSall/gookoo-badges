@@ -1,6 +1,6 @@
 # Fusion badges
 
-Grey media badges with regex filters for Fusion. 94 filters in one style: resolution, Dolby Vision and HDR, IMAX, audio formats, channels, release type tiers (Remux, Blu-ray, WEB), languages, subtitles, rating and audio description.
+Grey media badges with regex filters for Fusion. 43 filters: release type tiers (Remux, Blu-ray, WEB), resolution, Dolby Vision and HDR, IMAX, audio formats, channels, subtitles, rating and audio description.
 
 ![Preview](preview.png)
 
@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/fusion-badges.
 
 The patterns follow [Vidhin05/Releases-Regex](https://github.com/Vidhin05/Releases-Regex). Audio, Dolby Vision, resolution and channel badges use the same tag rules as the AIOStreams parser that repo builds on. Each audio badge also skips the formats Vidhin ranks above it, so a file shows one codec badge. IMAX and AD use Vidhin's own patterns.
 
-Release type tiers use the patterns from [nobnobz's fusion-tags-ume](https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/fusion-tags-ume.json). Language badges use AIOStreams' language detection, with ISO codes (AR, RU, and so on). HDR shows only the best format: Dolby Vision, then HDR10+, HDR10, HDR.
+Release type tiers use the patterns, icons and colours from [nobnobz's fusion-tags-ume](https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/fusion-tags-ume.json). HDR shows only the best format: Dolby Vision, then HDR10+, HDR10, HDR.
