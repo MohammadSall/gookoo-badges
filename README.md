@@ -1,6 +1,6 @@
 # Fusion badges
 
-Grey media badges with regex filters for Fusion. 43 filters: release type tiers (Remux, Blu-ray, WEB), resolution, Dolby Vision and HDR, IMAX, audio formats, channels, subtitles, rating and audio description.
+Grey media badges with regex filters for Fusion. 47 filters: release type tiers (Remux, Blu-ray, WEB), resolution, Dolby Vision and HDR, IMAX, HEVC, audio formats, channels, editions (Extended, Director's Cut, Theatrical), subtitles, rating and audio description.
 
 ![Preview](preview.png)
 
