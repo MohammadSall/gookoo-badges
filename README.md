@@ -22,3 +22,15 @@ https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/fusion-badges.
 The patterns follow [Vidhin05/Releases-Regex](https://github.com/Vidhin05/Releases-Regex). Audio, Dolby Vision, resolution and channel badges use the same tag rules as the AIOStreams parser that repo builds on. Each audio badge also skips the formats Vidhin ranks above it, so a file shows one codec badge. IMAX and AD use Vidhin's own patterns.
 
 Release type tiers use the patterns, icons and colours from [nobnobz's fusion-tags-ume](https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/fusion-tags-ume.json). HDR shows only the best format: Dolby Vision, then HDR10+, HDR10, HDR.
+
+## Shelves
+
+Separate from the badges. `shelves/` holds home-row exports for the media hub.
+
+- `shelves/collections.json` is the Collections row: 25 franchise collections, each with a poster and its MDBList or Trakt list.
+
+Raw link to import:
+
+```
+https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/collections.json
+```
