@@ -10,11 +10,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59781,
                     "listName": "Toy Story",
-                    "username": "wheezer0610"
+                    "listSlug": "toy-story",
+                    "traktId": 37384103,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -44,11 +45,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193889,
                     "listName": "Ice Age",
-                    "username": "iamnotorious"
+                    "listSlug": "ice-age",
+                    "traktId": 37385208,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -78,11 +80,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193904,
-                    "listName": "The LEGO Movies",
-                    "username": "iamnotorious"
+                    "listName": "Lego films and TV series",
+                    "listSlug": "lego-films-and-tv-series",
+                    "traktId": 3871336,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -95,11 +98,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193891,
                     "listName": "Kung Fu Panda",
-                    "username": "iamnotorious"
+                    "listSlug": "kung-fu-panda",
+                    "traktId": 37385284,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -112,11 +116,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193894,
                     "listName": "How to Train Your Dragon",
-                    "username": "iamnotorious"
+                    "listSlug": "how-to-train-your-dragon",
+                    "traktId": 37385017,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -129,11 +134,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 199277,
                     "listName": "The Incredibles",
-                    "username": "iamwills"
+                    "listSlug": "the-incredibles",
+                    "traktId": 37384355,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -146,11 +152,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193892,
                     "listName": "Madagascar",
-                    "username": "iamnotorious"
+                    "listSlug": "madagascar",
+                    "traktId": 37384984,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -163,11 +170,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193893,
                     "listName": "Hotel Transylvania",
-                    "username": "iamnotorious"
+                    "listSlug": "hotel-transylvania",
+                    "traktId": 37384880,
+                    "username": "mimi1989"
                   }
                 }
               ],

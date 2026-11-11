@@ -172,11 +172,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 44447,
                     "listName": "Maze Runner",
-                    "username": "briandnj"
+                    "listSlug": "maze-runner",
+                    "traktId": 37385404,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -189,11 +190,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 79332,
-                    "listName": "X-Men Collection",
-                    "username": "bigheadweb"
+                    "listName": "X-Men Universe",
+                    "listSlug": "x-men-universe",
+                    "traktId": 1463555,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -242,11 +244,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59629,
                     "listName": "Die Hard",
-                    "username": "wheezer0610"
+                    "listSlug": "die-hard",
+                    "traktId": 1481887,
+                    "username": "TheRiskOfTime"
                   }
                 }
               ],
@@ -277,11 +280,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 226257,
-                    "listName": "Knives Out Collection",
-                    "username": "nimesh.netco"
+                    "listName": "#Knives Out Collection",
+                    "listSlug": "knives-out-collection",
+                    "traktId": 37897279,
+                    "username": "dprice34"
                   }
                 }
               ],
@@ -366,11 +370,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 199090,
-                    "listName": "Alvin & The Chipmunks",
-                    "username": "iamwills"
+                    "listName": "Alvin and the Chipmunks",
+                    "listSlug": "alvin-and-the-chipmunks",
+                    "traktId": 37521152,
+                    "username": "JDH"
                   }
                 }
               ],
@@ -383,11 +388,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59849,
                     "listName": "Bad Boys",
-                    "username": "wheezer0610"
+                    "listSlug": "bad-boys",
+                    "traktId": 21244907,
+                    "username": "Rygo92"
                   }
                 }
               ],
@@ -418,11 +424,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 162848,
-                    "listName": "Guardians of the Galaxy",
-                    "username": "timwaldoch"
+                    "listName": "#Guardians of the Galaxy Collection",
+                    "listSlug": "guardians-of-the-galaxy-collection",
+                    "traktId": 37897097,
+                    "username": "dprice34"
                   }
                 }
               ],
@@ -435,19 +442,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 227717,
                     "listName": "Sherlock Holmes",
-                    "username": "gwmhy8fnrb"
-                  }
-                },
-                {
-                  "kind": "mdbList",
-                  "payload": {
-                    "listId": 196735,
-                    "listName": "Sherlock",
-                    "username": "iamwills"
+                    "listSlug": "sherlock-holmes",
+                    "traktId": 24369004,
+                    "username": "TheChocolateFinger"
                   }
                 }
               ],
@@ -472,11 +472,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59781,
                     "listName": "Toy Story",
-                    "username": "wheezer0610"
+                    "listSlug": "toy-story",
+                    "traktId": 37384103,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -506,11 +507,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193889,
                     "listName": "Ice Age",
-                    "username": "iamnotorious"
+                    "listSlug": "ice-age",
+                    "traktId": 37385208,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -540,11 +542,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193904,
-                    "listName": "The LEGO Movies",
-                    "username": "iamnotorious"
+                    "listName": "Lego films and TV series",
+                    "listSlug": "lego-films-and-tv-series",
+                    "traktId": 3871336,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -557,11 +560,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193891,
                     "listName": "Kung Fu Panda",
-                    "username": "iamnotorious"
+                    "listSlug": "kung-fu-panda",
+                    "traktId": 37385284,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -574,11 +578,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193894,
                     "listName": "How to Train Your Dragon",
-                    "username": "iamnotorious"
+                    "listSlug": "how-to-train-your-dragon",
+                    "traktId": 37385017,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -591,11 +596,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 199277,
                     "listName": "The Incredibles",
-                    "username": "iamwills"
+                    "listSlug": "the-incredibles",
+                    "traktId": 37384355,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -608,11 +614,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193892,
                     "listName": "Madagascar",
-                    "username": "iamnotorious"
+                    "listSlug": "madagascar",
+                    "traktId": 37384984,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -625,11 +632,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 193893,
                     "listName": "Hotel Transylvania",
-                    "username": "iamnotorious"
+                    "listSlug": "hotel-transylvania",
+                    "traktId": 37384880,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -672,11 +680,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 3918,
-                    "listName": "Pixar Movie Collection",
-                    "username": "hdlists"
+                    "listName": "Pixar Feature Films",
+                    "listSlug": "pixar-feature-films",
+                    "traktId": 801240,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -707,11 +716,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 207074,
-                    "listName": "Cartoon Network Highly Rated",
-                    "username": "andykai"
+                    "listName": "Cartoon Network - Original Programming",
+                    "listSlug": "cartoon-network-original-programming",
+                    "traktId": 3403137,
+                    "username": "Bigfella"
                   }
                 }
               ],
@@ -724,11 +734,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 207073,
-                    "listName": "Nickelodeon Highly Rated",
-                    "username": "andykai"
+                    "listName": "All Nickelodeon Shows",
+                    "listSlug": "all-nickelodeon-shows",
+                    "traktId": 10618328,
+                    "username": "a925sw"
                   }
                 }
               ],
@@ -741,11 +752,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 72491,
-                    "listName": "A24 Movies & Series",
-                    "username": "notamongo5"
+                    "listName": "A24",
+                    "listSlug": "a24",
+                    "traktId": 33148307,
+                    "username": "lish408"
                   }
                 }
               ],
@@ -758,11 +770,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 29927,
-                    "listName": "Studio Ghibli (Anime)",
-                    "username": "jukebox8786"
+                    "listName": "Studio Ghibli Feature Films",
+                    "listSlug": "studio-ghibli-feature-films",
+                    "traktId": 801239,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -810,11 +823,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 12837,
                     "listName": "Sony Pictures Animation",
-                    "username": "mmagtech"
+                    "listSlug": "sony-pictures-animation",
+                    "traktId": 1713610,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -845,11 +859,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 3928,
-                    "listName": "DreamWorks Movie Collection",
-                    "username": "hdlists"
+                    "listName": "Dreamworks Feature Films",
+                    "listSlug": "dreamworks-feature-films",
+                    "traktId": 801242,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -879,11 +894,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 32943,
-                    "listName": "Lionsgate Movies",
-                    "username": "galaxys8-insta"
+                    "listName": "lionsgate movies",
+                    "listSlug": "lionsgate-movies",
+                    "traktId": 24533583,
+                    "username": "tomcdj"
                   }
                 }
               ],

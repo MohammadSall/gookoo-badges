@@ -28,11 +28,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 3918,
-                    "listName": "Pixar Movie Collection",
-                    "username": "hdlists"
+                    "listName": "Pixar Feature Films",
+                    "listSlug": "pixar-feature-films",
+                    "traktId": 801240,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -63,11 +64,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 207074,
-                    "listName": "Cartoon Network Highly Rated",
-                    "username": "andykai"
+                    "listName": "Cartoon Network - Original Programming",
+                    "listSlug": "cartoon-network-original-programming",
+                    "traktId": 3403137,
+                    "username": "Bigfella"
                   }
                 }
               ],
@@ -80,11 +82,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 207073,
-                    "listName": "Nickelodeon Highly Rated",
-                    "username": "andykai"
+                    "listName": "All Nickelodeon Shows",
+                    "listSlug": "all-nickelodeon-shows",
+                    "traktId": 10618328,
+                    "username": "a925sw"
                   }
                 }
               ],
@@ -97,11 +100,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 72491,
-                    "listName": "A24 Movies & Series",
-                    "username": "notamongo5"
+                    "listName": "A24",
+                    "listSlug": "a24",
+                    "traktId": 33148307,
+                    "username": "lish408"
                   }
                 }
               ],
@@ -114,11 +118,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 29927,
-                    "listName": "Studio Ghibli (Anime)",
-                    "username": "jukebox8786"
+                    "listName": "Studio Ghibli Feature Films",
+                    "listSlug": "studio-ghibli-feature-films",
+                    "traktId": 801239,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -166,11 +171,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 12837,
                     "listName": "Sony Pictures Animation",
-                    "username": "mmagtech"
+                    "listSlug": "sony-pictures-animation",
+                    "traktId": 1713610,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -201,11 +207,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 3928,
-                    "listName": "DreamWorks Movie Collection",
-                    "username": "hdlists"
+                    "listName": "Dreamworks Feature Films",
+                    "listSlug": "dreamworks-feature-films",
+                    "traktId": 801242,
+                    "username": "Draackje"
                   }
                 }
               ],
@@ -235,11 +242,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 32943,
-                    "listName": "Lionsgate Movies",
-                    "username": "galaxys8-insta"
+                    "listName": "lionsgate movies",
+                    "listSlug": "lionsgate-movies",
+                    "traktId": 24533583,
+                    "username": "tomcdj"
                   }
                 }
               ],

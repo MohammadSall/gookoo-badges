@@ -172,11 +172,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 44447,
                     "listName": "Maze Runner",
-                    "username": "briandnj"
+                    "listSlug": "maze-runner",
+                    "traktId": 37385404,
+                    "username": "mimi1989"
                   }
                 }
               ],
@@ -189,11 +190,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 79332,
-                    "listName": "X-Men Collection",
-                    "username": "bigheadweb"
+                    "listName": "X-Men Universe",
+                    "listSlug": "x-men-universe",
+                    "traktId": 1463555,
+                    "username": "Donxy"
                   }
                 }
               ],
@@ -242,11 +244,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59629,
                     "listName": "Die Hard",
-                    "username": "wheezer0610"
+                    "listSlug": "die-hard",
+                    "traktId": 1481887,
+                    "username": "TheRiskOfTime"
                   }
                 }
               ],
@@ -277,11 +280,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 226257,
-                    "listName": "Knives Out Collection",
-                    "username": "nimesh.netco"
+                    "listName": "#Knives Out Collection",
+                    "listSlug": "knives-out-collection",
+                    "traktId": 37897279,
+                    "username": "dprice34"
                   }
                 }
               ],
@@ -366,11 +370,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 199090,
-                    "listName": "Alvin & The Chipmunks",
-                    "username": "iamwills"
+                    "listName": "Alvin and the Chipmunks",
+                    "listSlug": "alvin-and-the-chipmunks",
+                    "traktId": 37521152,
+                    "username": "JDH"
                   }
                 }
               ],
@@ -383,11 +388,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59849,
                     "listName": "Bad Boys",
-                    "username": "wheezer0610"
+                    "listSlug": "bad-boys",
+                    "traktId": 21244907,
+                    "username": "Rygo92"
                   }
                 }
               ],
@@ -418,11 +424,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 162848,
-                    "listName": "Guardians of the Galaxy",
-                    "username": "timwaldoch"
+                    "listName": "#Guardians of the Galaxy Collection",
+                    "listSlug": "guardians-of-the-galaxy-collection",
+                    "traktId": 37897097,
+                    "username": "dprice34"
                   }
                 }
               ],
@@ -435,19 +442,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 227717,
                     "listName": "Sherlock Holmes",
-                    "username": "gwmhy8fnrb"
-                  }
-                },
-                {
-                  "kind": "mdbList",
-                  "payload": {
-                    "listId": 196735,
-                    "listName": "Sherlock",
-                    "username": "iamwills"
+                    "listSlug": "sherlock-holmes",
+                    "traktId": 24369004,
+                    "username": "TheChocolateFinger"
                   }
                 }
               ],
