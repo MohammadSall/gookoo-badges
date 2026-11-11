@@ -34,4 +34,4 @@ Separate from the badges. `shelves/` holds home-row exports for the media hub, i
 | Animations | 10 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/animations.json` |
 | Studios | 15 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/studios.json` |
 
-Each collection keeps its poster, ID and list. Trakt lists use `traktList`; MDBList lists use `mdbList` with the list's ID, name and owner.
+Each collection keeps its poster and ID. Collections use Trakt lists (`traktList`) taken from public Fusion setups. The ones still waiting for a Trakt list keep their MDBList list (`mdbList`); Fusion importers skip those until they get a Trakt list.

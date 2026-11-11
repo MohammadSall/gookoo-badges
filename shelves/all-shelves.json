@@ -10,11 +10,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 102972,
                     "listName": "Harry Potter Collection",
-                    "username": "thebirdod"
+                    "listSlug": "harry-potter-collection",
+                    "traktId": 32378710,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -27,11 +28,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 119160,
-                    "listName": "The Lord of the Rings (and Hobbit) - Movie Series",
-                    "username": "kennyg10"
+                    "listName": "Middle Earth",
+                    "listSlug": "middle-earth",
+                    "traktId": 32242000,
+                    "username": "drjenkins"
                   }
                 }
               ],
@@ -44,11 +46,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 135760,
-                    "listName": "Pirates of the Caribbean",
-                    "username": "nicoleshea0"
+                    "listName": "Pirates of the Caribbean Collection",
+                    "listSlug": "pirates-of-the-caribbean-collection",
+                    "traktId": 32377354,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -79,11 +82,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 32082,
-                    "listName": "Star Wars",
-                    "username": "poptraktor"
+                    "listName": "Star Wars Collection",
+                    "listSlug": "star-wars-collection",
+                    "traktId": 32379017,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -96,11 +100,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 76743,
-                    "listName": "Fast and Furious Collection",
-                    "username": "jamestrakt8462"
+                    "listName": "The Fast & Furious Universe",
+                    "listSlug": "the-fast-furious-universe",
+                    "traktId": 11362509,
+                    "username": "mri8879"
                   }
                 }
               ],
@@ -113,11 +118,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 46500,
-                    "listName": "Hunger Games",
-                    "username": "briandnj"
+                    "listName": "The Hunger Games",
+                    "listSlug": "the-hunger-games",
+                    "traktId": 32376949,
+                    "username": "drjenkins"
                   }
                 }
               ],
@@ -130,11 +136,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 31306,
-                    "listName": "John Wick",
-                    "username": "wheezer0610"
+                    "listName": "John Wick Collection",
+                    "listSlug": "john-wick-collection",
+                    "traktId": 32382577,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -147,11 +154,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 211896,
-                    "listName": "Dune Collection",
-                    "username": "nimesh.netco"
+                    "listName": "dune",
+                    "listSlug": "dune",
+                    "traktId": 32517134,
+                    "username": "pjohnston1"
                   }
                 }
               ],
@@ -198,11 +206,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 24570,
-                    "listName": "Back to the future",
-                    "username": "bolderman"
+                    "listName": "Back to the Future",
+                    "listSlug": "back-to-the-future",
+                    "traktId": 32199686,
+                    "username": "drjenkins"
                   }
                 }
               ],
@@ -215,11 +224,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 31304,
-                    "listName": "Indiana Jones",
-                    "username": "wheezer0610"
+                    "listName": "Indiana Jones Collection",
+                    "listSlug": "indiana-jones-collection",
+                    "traktId": 32382610,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -249,11 +259,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 31309,
-                    "listName": "Mission Impossible",
-                    "username": "wheezer0610"
+                    "listName": "Mission Impossible Collection",
+                    "listSlug": "mission-impossible-collection",
+                    "traktId": 32378615,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -283,11 +294,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 82054,
-                    "listName": "007",
-                    "username": "aaron713"
+                    "listName": "James Bond",
+                    "listSlug": "james-bond",
+                    "traktId": 31788775,
+                    "username": "drjenkins"
                   }
                 }
               ],
@@ -318,11 +330,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 29466,
                     "listName": "Avatar",
-                    "username": "emilyncards"
+                    "listSlug": "avatar",
+                    "traktId": 33744778,
+                    "username": "Kirky62"
                   }
                 }
               ],
@@ -335,11 +348,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 204570,
                     "listName": "Jurassic Park Collection",
-                    "username": "kaoxt"
+                    "listSlug": "jurassic-park-collection",
+                    "traktId": 32378934,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -386,11 +400,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 59786,
                     "listName": "Planet of the Apes (Reboot)",
-                    "username": "wheezer0610"
+                    "listSlug": "planet-of-the-apes-reboot",
+                    "traktId": 32377380,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -639,19 +654,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 128062,
-                    "listName": "MCU Movies",
-                    "username": "snoak"
-                  }
-                },
-                {
-                  "kind": "mdbList",
-                  "payload": {
-                    "listId": 15080,
-                    "listName": "MCU Shows",
-                    "username": "godlikepenguin"
+                    "listName": "Marvel Cinematic Universe",
+                    "listSlug": "marvel-cinematic-universe",
+                    "traktId": 32377421,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -681,11 +689,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 91387,
-                    "listName": "Disney Animation",
-                    "username": "alysadanae7"
+                    "listName": "Disney+ Movies",
+                    "listSlug": "disney-movies",
+                    "traktId": 30828895,
+                    "username": "tvgeniekodi"
                   }
                 }
               ],
@@ -783,11 +792,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 92855,
-                    "listName": "DC Universe",
-                    "username": "mmozeiko"
+                    "listName": "DC Movies",
+                    "listSlug": "dc-movies",
+                    "traktId": 3989015,
+                    "username": "AraChn0id"
                   }
                 }
               ],
@@ -817,11 +827,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 72470,
-                    "listName": "Paramount Plus Movies & Series",
-                    "username": "notamongo5"
+                    "listName": "Paramount+ Movies",
+                    "listSlug": "paramount-movies",
+                    "traktId": 30828986,
+                    "username": "tvgeniekodi"
                   }
                 }
               ],

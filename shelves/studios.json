@@ -10,19 +10,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 128062,
-                    "listName": "MCU Movies",
-                    "username": "snoak"
-                  }
-                },
-                {
-                  "kind": "mdbList",
-                  "payload": {
-                    "listId": 15080,
-                    "listName": "MCU Shows",
-                    "username": "godlikepenguin"
+                    "listName": "Marvel Cinematic Universe",
+                    "listSlug": "marvel-cinematic-universe",
+                    "traktId": 32377421,
+                    "username": "vanbushi"
                   }
                 }
               ],
@@ -52,11 +45,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 91387,
-                    "listName": "Disney Animation",
-                    "username": "alysadanae7"
+                    "listName": "Disney+ Movies",
+                    "listSlug": "disney-movies",
+                    "traktId": 30828895,
+                    "username": "tvgeniekodi"
                   }
                 }
               ],
@@ -154,11 +148,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 92855,
-                    "listName": "DC Universe",
-                    "username": "mmozeiko"
+                    "listName": "DC Movies",
+                    "listSlug": "dc-movies",
+                    "traktId": 3989015,
+                    "username": "AraChn0id"
                   }
                 }
               ],
@@ -188,11 +183,12 @@
             {
               "dataSources": [
                 {
-                  "kind": "mdbList",
+                  "kind": "traktList",
                   "payload": {
-                    "listId": 72470,
-                    "listName": "Paramount Plus Movies & Series",
-                    "username": "notamongo5"
+                    "listName": "Paramount+ Movies",
+                    "listSlug": "paramount-movies",
+                    "traktId": 30828986,
+                    "username": "tvgeniekodi"
                   }
                 }
               ],
