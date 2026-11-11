@@ -1,0 +1,910 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 102972,
+                    "listName": "Harry Potter Collection",
+                    "username": "thebirdod"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1B1E32CA-FC45-4F53-A534-8F8486AE693F",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/9QLT4GH9/CCB11800-CF41-4FE9-B200-A49F1FA1F09B.png",
+              "title": "Harry Potter"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 119160,
+                    "listName": "The Lord of the Rings (and Hobbit) - Movie Series",
+                    "username": "kennyg10"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7F2C87C6-1CE2-479A-8450-3231C28660F3",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/HkqydJsb/4C1B6E0E-F880-467E-8C3B-627FEF88021E.png",
+              "title": "Lord of the Rings"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 135760,
+                    "listName": "Pirates of the Caribbean",
+                    "username": "nicoleshea0"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "8B27FCEF-7FB0-47C5-9CCE-EF0F23474575",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/tTynnL64/0516D760-7681-4763-B795-88B025948A19.png",
+              "title": "Pirates of the Caribbean"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Transformers (film series)",
+                    "listSlug": "transformers-film-series",
+                    "traktId": 11343225,
+                    "username": "AraChn0id"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "43DFEF1A-1EDF-40CC-B3A5-DD8353E13F44",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/vZJVb1Hr/C168B894-C098-4ECD-8FE0-F37683858898.png",
+              "title": "Transformers"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 32082,
+                    "listName": "Star Wars",
+                    "username": "poptraktor"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "D127AFFE-AE34-43B5-8DB8-D32DDF311E94",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/t4Kxp1CW/27A4165B-773A-48E3-B497-A0835F0B8F9C.png",
+              "title": "Star Wars"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 76743,
+                    "listName": "Fast and Furious Collection",
+                    "username": "jamestrakt8462"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "8DD40C72-6021-4B06-8BA6-E56BC7968C01",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/d0GT1qht/115C5BF2-9B7E-40CA-B3F3-92C5C0FABF25.png",
+              "title": "Fast & Furious"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 46500,
+                    "listName": "Hunger Games",
+                    "username": "briandnj"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "72A78857-4DF4-4323-AC26-2339287743B7",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/Qxg0Wkbh/D1CE03F1-B1E6-433F-80C9-367722C574D9.png",
+              "title": "Hunger Games"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 31306,
+                    "listName": "John Wick",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "F0F40366-869F-4E4D-918A-FC74298292B4",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/59wjDwy5/F6661008-6142-40EF-A823-EF9BB7689C16.png",
+              "title": "John Wick"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 211896,
+                    "listName": "Dune Collection",
+                    "username": "nimesh.netco"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "A061C51F-869E-4502-9324-EE582E0A976C",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/9XyWgC0F/FFA68A12-D1DF-4133-84CD-08F6757F62E3.png",
+              "title": "Dune"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 44447,
+                    "listName": "Maze Runner",
+                    "username": "briandnj"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5068AF7D-BC95-42FF-BB72-A7AA163F8C02",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/s1drS3Pc/B7F38B30-ABCB-4180-BF6E-7A50DD234F1E.png",
+              "title": "Maze Runner"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 79332,
+                    "listName": "X-Men Collection",
+                    "username": "bigheadweb"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "CEE195C9-AE2E-41ED-B596-99B74FE9A7E4",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/Jzdbtbbm/143BE401-D4E8-43EC-A01B-B1B70DC2AE69.png",
+              "title": "X-Men"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 24570,
+                    "listName": "Back to the future",
+                    "username": "bolderman"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "22E94EB3-8AB4-426B-A9CE-D3EAB20779A1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/RZY5VDh1/30BF0A63-E855-45DD-8349-A238CDFB9E79.png",
+              "title": "Back to the Future"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 31304,
+                    "listName": "Indiana Jones",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1D08346D-F223-4F13-90D0-5AA5BA459BB2",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/0578XPjQ/C4CE4E5A-DCE4-4E4C-A19B-D112D066B5B4.png",
+              "title": "Indiana Jones"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 59629,
+                    "listName": "Die Hard",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "9D72D2D9-5587-42D2-B6AB-FA940A82F408",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/J0jJVW91/B6E1854E-4A0D-485B-9F93-112FE2A3C75C.png",
+              "title": "Die Hard"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 31309,
+                    "listName": "Mission Impossible",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "BB6A5343-1A27-4B41-A831-14745EF945E1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/YC0NzXR7/8E1163ED-49BE-40EF-9AA3-BEC71817F3B0.png",
+              "title": "Mission: Impossible"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 226257,
+                    "listName": "Knives Out Collection",
+                    "username": "nimesh.netco"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "94687DF5-2411-4EC2-8935-8925A374A196",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/T31jJk0f/F507456F-1ED5-400A-9067-776C5680E12D.png",
+              "title": "Knives Out"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 82054,
+                    "listName": "007",
+                    "username": "aaron713"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7764B64A-5991-44B3-B644-03F755D952CC",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/N0709tXY/8158F578-FC33-425A-8AAA-D737234EABC3.png",
+              "title": "007"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "scream",
+                    "listSlug": "scream",
+                    "traktId": 36601479,
+                    "username": "leila_eduarda_66b1c2"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "63C2E97F-E3A0-43DD-9005-56C0E2019F6B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/28ydYcZx/84134339-E459-4CD8-8767-C5C1A7B26700.png",
+              "title": "Scream"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 29466,
+                    "listName": "Avatar",
+                    "username": "emilyncards"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "E4C6F73A-5B5A-4503-94B1-025982A248EA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/MKvJ7Ct7/5AD4A2E9-2D0D-420A-A689-413A5756C7CD.png",
+              "title": "Avatar"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 204570,
+                    "listName": "Jurassic Park Collection",
+                    "username": "kaoxt"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5A49D1B4-0284-4775-AF22-43DF01760E4B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/BQhJ136D/4E47795B-E4E9-4239-98FF-391FDF210C32.png",
+              "title": "Jurassic Park"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 199090,
+                    "listName": "Alvin & The Chipmunks",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "611580BE-C825-422A-8114-BAC7118C180C",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/YqXtm79W/C7D79CFD-A318-4B3E-8535-03BC008E10B2.png",
+              "title": "Alvin & The Chipmunks"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 59849,
+                    "listName": "Bad Boys",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "70B0F091-5091-47EC-9669-C5C72ABA8C25",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/WbtMYLKD/14A3767F-5C5F-408C-BE09-AD29DF73CCFA.png",
+              "title": "Bad Boys"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 59786,
+                    "listName": "Planet of the Apes (Reboot)",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7347FDAC-1244-4B27-A503-0A34D32E1664",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/PrNmVscp/2CF3B9EA-C68B-4D3F-9446-93178181D5AD.png",
+              "title": "Planet of the Apes"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 162848,
+                    "listName": "Guardians of the Galaxy",
+                    "username": "timwaldoch"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "AB6AD75B-5262-4AF2-B94D-E9C0D56D628C",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/PrNmVscD/35997A26-3A46-4708-8050-93DB5D4233DA.png",
+              "title": "Guardians of the Galaxy"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 227717,
+                    "listName": "Sherlock Holmes",
+                    "username": "gwmhy8fnrb"
+                  }
+                },
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 196735,
+                    "listName": "Sherlock",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "104733DA-882C-400C-A68A-49B805B948FF",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/3JWgf56k/9DDF43CB-BA6A-4984-961A-B17A4DA902AF.png",
+              "title": "Sherlock Holmes"
+            }
+          ]
+        }
+      },
+      "id": "collection.E8B27C73-1782-4F26-B0BD-B191E915F073",
+      "title": "Collections",
+      "type": "collection.row"
+    },
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 59781,
+                    "listName": "Toy Story",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "E417E220-2967-4455-B504-340DA5946021",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/j5tgcY9w/25413CAA-6CE8-4478-823A-0AC980707F02.png",
+              "title": "Toy Story"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 199466,
+                    "listName": "Cars",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "0A38712C-410F-45D4-A2FA-9CD2C3C4A667",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/k4q1sPZ8/BAAF62BD-663E-492E-AF85-A7A77078542F.png",
+              "title": "Cars"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193889,
+                    "listName": "Ice Age",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "4F7C7933-37AC-4A31-B300-0B89B0F18153",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/c4wxgQRq/A6B765BF-9527-408A-80A8-A82C3ED34B00.png",
+              "title": "Ice Age"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 227694,
+                    "listName": "Adventure Time",
+                    "username": "gwmhy8fnrb"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "89B74171-D341-4F58-AA15-7E04B4418EFF",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/kgGFQ5hv/184C72FD-A45E-4208-BFF8-E7C181DA3D50.png",
+              "title": "Adventure Time"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193904,
+                    "listName": "The LEGO Movies",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "496512D7-A75A-4902-9305-78C46BC8A340",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/SRDVxJDx/F4F723AD-6CF5-4AF9-9056-14A5A2E3E3F9.png",
+              "title": "Lego"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193891,
+                    "listName": "Kung Fu Panda",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "08F22BDD-6451-45CA-B792-B2ECDEFCC474",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/sxwKgvwB/94DC7D32-A611-4AB1-9AE0-5700E4B4E25D.png",
+              "title": "Kung Fu Panda"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193894,
+                    "listName": "How to Train Your Dragon",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "8E665C05-348E-4D88-BD8F-0F24ABCD4D03",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/d34nVL4T/5E300756-33AE-48E2-B8E0-16C95BF990E7.png",
+              "title": "How to Train Your Dragon"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 199277,
+                    "listName": "The Incredibles",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "DD35D35B-B8AD-4E74-86CC-193439A02136",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/hvpMtfpj/1418F819-38E5-4612-BF52-0003A960D1B1.png",
+              "title": "Incredibles"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193892,
+                    "listName": "Madagascar",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "466C655D-BDBF-4A00-ADD8-2A6FE0834104",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/g2cgX97B/6AA42FA7-A57B-436C-AE4D-2C447C4538F0.png",
+              "title": "Madagascar"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193893,
+                    "listName": "Hotel Transylvania",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "41E628F0-C5BC-46C0-B69F-025C9D65674B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/xTMfJKvD/C5660A75-D63D-4EA4-928E-E1CE66FAD44D.png",
+              "title": "Hotel Transylvania"
+            }
+          ]
+        }
+      },
+      "id": "collection.DDFB439C-2FBB-4BC1-8C61-7BD5C5085D21",
+      "title": "Animations",
+      "type": "collection.row"
+    },
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 128062,
+                    "listName": "MCU Movies",
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 15080,
+                    "listName": "MCU Shows",
+                    "username": "godlikepenguin"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5E3DDA41-3549-48C2-A3ED-E14DE94AA414",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/pT67k6tz/6722AC00-C77D-4B2F-BC3D-6E7C5A34C5A1.png",
+              "title": "Marvel"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 3918,
+                    "listName": "Pixar Movie Collection",
+                    "username": "hdlists"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "DACE61C3-A5F2-469B-91A5-5B9FE5F7EFFA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/BvxYGz3w/42CAB1BB-5797-4383-A483-BC1034D36DD2.png",
+              "title": "Pixar"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 91387,
+                    "listName": "Disney Animation",
+                    "username": "alysadanae7"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "2AEE7A82-DFA4-44C9-A532-2241941C91AF",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/5y3t6FHB/8FA60A22-B7D4-4E0F-8420-18842C7CC60F.png",
+              "title": "Disney"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 207074,
+                    "listName": "Cartoon Network Highly Rated",
+                    "username": "andykai"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "55467A96-0F47-4377-9F6A-687D3444FECD",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/xdKxSZQ3/FAFC871A-6FC0-46C8-877A-FF0D551DE84C.png",
+              "title": "Cartoon Network"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 207073,
+                    "listName": "Nickelodeon Highly Rated",
+                    "username": "andykai"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7A9C3D7D-5EC4-4B26-AC53-CA7B3D7640BA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/W4MWPyVX/857C67EE-BF42-457D-A6E3-31DA9DF90531.png",
+              "title": "Nickelodeon"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 72491,
+                    "listName": "A24 Movies & Series",
+                    "username": "notamongo5"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5045D95E-F248-4EF5-A791-A193789D344A",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/wBhfdrzW/AA302EC9-B43E-47F3-A7F1-D900069FD895.png",
+              "title": "A24"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 29927,
+                    "listName": "Studio Ghibli (Anime)",
+                    "username": "jukebox8786"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "2BB94CB4-21D3-4FF2-8E14-64530834D51B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/ZRMgjMhN/89CAFF76-951A-4D68-96E9-ACF54F9EC1DC.png",
+              "title": "Studio Ghibli"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 21678,
+                    "listName": "20th Century Fox Movies",
+                    "username": "splank789"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1A520D03-72D4-4F57-9AF5-DFD6D8B1A1A1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/QMjRM7bM/A63669B7-33D3-4ED4-AC9B-9AE2BE2783BB.png",
+              "title": "20th Century Fox"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 92855,
+                    "listName": "DC Universe",
+                    "username": "mmozeiko"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7C771230-5E5F-4821-9476-6F0DADEE0EE1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/1zKSs1LV/540C52A5-11E1-4ED2-8E54-88645C5A47C1.png",
+              "title": "DC Studio"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 12837,
+                    "listName": "Sony Pictures Animation",
+                    "username": "mmagtech"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "E70B9BFB-3799-4AC3-9ABF-F5D447E15BCA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/zBcMpc1g/F1FC52A3-C537-4B54-87C5-46A9269CC025.png",
+              "title": "Sony"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 72470,
+                    "listName": "Paramount Plus Movies & Series",
+                    "username": "notamongo5"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1E1FABEC-5596-4DD0-B3B0-B7B4817B52C5",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/7LqpLzVY/1DDF1037-541E-4C56-BBA6-2132171EDE1C.png",
+              "title": "Paramount"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 3928,
+                    "listName": "DreamWorks Movie Collection",
+                    "username": "hdlists"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "78DD04AF-B444-44F1-B896-F4078A64A924",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/YS1nwP7R/BFC348C7-F2DF-41EF-95B0-0C1D6C76A389.png",
+              "title": "DreamWorks"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 147737,
+                    "listName": "Warner Bros Pictures",
+                    "username": "clement_dth"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "CCE4C19D-D7AF-4FDF-AD1E-4BA6F100811B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/KYmdYTN8/D4AB9580-845D-4553-9A55-B1ECB71FABB9.png",
+              "title": "Warner Bros. Pictures"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 32943,
+                    "listName": "Lionsgate Movies",
+                    "username": "galaxys8-insta"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "CD4AD25D-A8A0-4E89-9687-BECD02FE80CC",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/W3QkVrRv/DD643DC6-EB1E-4286-858E-CB8D4DFE071E.png",
+              "title": "Lionsgate"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 118953,
+                    "listName": "Focus feature movies",
+                    "username": "timidwarlord"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "0FC8349F-DDFF-480D-82E4-395EFDCADB13",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/G2ZyRY0c/F36C0F95-2403-44DC-8474-27C05DA2FFFC.png",
+              "title": "Focus Features"
+            }
+          ]
+        }
+      },
+      "id": "collection.FFA465C0-26C3-49B8-8B05-25262433C878",
+      "title": "Studios",
+      "type": "collection.row"
+    }
+  ]
+}

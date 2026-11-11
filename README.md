@@ -25,12 +25,13 @@ Release type tiers use the patterns, icons and colours from [nobnobz's fusion-ta
 
 ## Shelves
 
-Separate from the badges. `shelves/` holds home-row exports for the media hub.
+Separate from the badges. `shelves/` holds home-row exports for the media hub, in the Fusion widgets format (`exportType: fusionWidgets`, one `collection.row` per shelf), the same format as [fusion-starter-kit](https://github.com/itsrenoria/fusion-starter-kit).
 
-- `shelves/collections.json` is the Collections row: 25 franchise collections, each with a poster and its MDBList or Trakt list.
+| Shelf | Collections | Raw link |
+|---|---|---|
+| All three shelves | 50 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/all-shelves.json` |
+| Collections | 25 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/collections.json` |
+| Animations | 10 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/animations.json` |
+| Studios | 15 | `https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/studios.json` |
 
-Raw link to import:
-
-```
-https://raw.githubusercontent.com/MohammadSall/gookoo-badges/main/shelves/collections.json
-```
+Each collection keeps its poster, ID and list. Trakt lists use `traktList`; MDBList lists use `mdbList` with the list's ID, name and owner.

@@ -1,0 +1,281 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 128062,
+                    "listName": "MCU Movies",
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 15080,
+                    "listName": "MCU Shows",
+                    "username": "godlikepenguin"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5E3DDA41-3549-48C2-A3ED-E14DE94AA414",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/pT67k6tz/6722AC00-C77D-4B2F-BC3D-6E7C5A34C5A1.png",
+              "title": "Marvel"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 3918,
+                    "listName": "Pixar Movie Collection",
+                    "username": "hdlists"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "DACE61C3-A5F2-469B-91A5-5B9FE5F7EFFA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/BvxYGz3w/42CAB1BB-5797-4383-A483-BC1034D36DD2.png",
+              "title": "Pixar"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 91387,
+                    "listName": "Disney Animation",
+                    "username": "alysadanae7"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "2AEE7A82-DFA4-44C9-A532-2241941C91AF",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/5y3t6FHB/8FA60A22-B7D4-4E0F-8420-18842C7CC60F.png",
+              "title": "Disney"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 207074,
+                    "listName": "Cartoon Network Highly Rated",
+                    "username": "andykai"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "55467A96-0F47-4377-9F6A-687D3444FECD",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/xdKxSZQ3/FAFC871A-6FC0-46C8-877A-FF0D551DE84C.png",
+              "title": "Cartoon Network"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 207073,
+                    "listName": "Nickelodeon Highly Rated",
+                    "username": "andykai"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7A9C3D7D-5EC4-4B26-AC53-CA7B3D7640BA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/W4MWPyVX/857C67EE-BF42-457D-A6E3-31DA9DF90531.png",
+              "title": "Nickelodeon"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 72491,
+                    "listName": "A24 Movies & Series",
+                    "username": "notamongo5"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "5045D95E-F248-4EF5-A791-A193789D344A",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/wBhfdrzW/AA302EC9-B43E-47F3-A7F1-D900069FD895.png",
+              "title": "A24"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 29927,
+                    "listName": "Studio Ghibli (Anime)",
+                    "username": "jukebox8786"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "2BB94CB4-21D3-4FF2-8E14-64530834D51B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/ZRMgjMhN/89CAFF76-951A-4D68-96E9-ACF54F9EC1DC.png",
+              "title": "Studio Ghibli"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 21678,
+                    "listName": "20th Century Fox Movies",
+                    "username": "splank789"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1A520D03-72D4-4F57-9AF5-DFD6D8B1A1A1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/QMjRM7bM/A63669B7-33D3-4ED4-AC9B-9AE2BE2783BB.png",
+              "title": "20th Century Fox"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 92855,
+                    "listName": "DC Universe",
+                    "username": "mmozeiko"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "7C771230-5E5F-4821-9476-6F0DADEE0EE1",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/1zKSs1LV/540C52A5-11E1-4ED2-8E54-88645C5A47C1.png",
+              "title": "DC Studio"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 12837,
+                    "listName": "Sony Pictures Animation",
+                    "username": "mmagtech"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "E70B9BFB-3799-4AC3-9ABF-F5D447E15BCA",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/zBcMpc1g/F1FC52A3-C537-4B54-87C5-46A9269CC025.png",
+              "title": "Sony"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 72470,
+                    "listName": "Paramount Plus Movies & Series",
+                    "username": "notamongo5"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "1E1FABEC-5596-4DD0-B3B0-B7B4817B52C5",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/7LqpLzVY/1DDF1037-541E-4C56-BBA6-2132171EDE1C.png",
+              "title": "Paramount"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 3928,
+                    "listName": "DreamWorks Movie Collection",
+                    "username": "hdlists"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "78DD04AF-B444-44F1-B896-F4078A64A924",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/YS1nwP7R/BFC348C7-F2DF-41EF-95B0-0C1D6C76A389.png",
+              "title": "DreamWorks"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 147737,
+                    "listName": "Warner Bros Pictures",
+                    "username": "clement_dth"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "CCE4C19D-D7AF-4FDF-AD1E-4BA6F100811B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/KYmdYTN8/D4AB9580-845D-4553-9A55-B1ECB71FABB9.png",
+              "title": "Warner Bros. Pictures"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 32943,
+                    "listName": "Lionsgate Movies",
+                    "username": "galaxys8-insta"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "CD4AD25D-A8A0-4E89-9687-BECD02FE80CC",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/W3QkVrRv/DD643DC6-EB1E-4286-858E-CB8D4DFE071E.png",
+              "title": "Lionsgate"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 118953,
+                    "listName": "Focus feature movies",
+                    "username": "timidwarlord"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "0FC8349F-DDFF-480D-82E4-395EFDCADB13",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/G2ZyRY0c/F36C0F95-2403-44DC-8474-27C05DA2FFFC.png",
+              "title": "Focus Features"
+            }
+          ]
+        }
+      },
+      "id": "collection.FFA465C0-26C3-49B8-8B05-25262433C878",
+      "title": "Studios",
+      "type": "collection.row"
+    }
+  ]
+}

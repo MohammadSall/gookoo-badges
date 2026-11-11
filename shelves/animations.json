@@ -1,0 +1,188 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 59781,
+                    "listName": "Toy Story",
+                    "username": "wheezer0610"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "E417E220-2967-4455-B504-340DA5946021",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/j5tgcY9w/25413CAA-6CE8-4478-823A-0AC980707F02.png",
+              "title": "Toy Story"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 199466,
+                    "listName": "Cars",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "0A38712C-410F-45D4-A2FA-9CD2C3C4A667",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/k4q1sPZ8/BAAF62BD-663E-492E-AF85-A7A77078542F.png",
+              "title": "Cars"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193889,
+                    "listName": "Ice Age",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "4F7C7933-37AC-4A31-B300-0B89B0F18153",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/c4wxgQRq/A6B765BF-9527-408A-80A8-A82C3ED34B00.png",
+              "title": "Ice Age"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 227694,
+                    "listName": "Adventure Time",
+                    "username": "gwmhy8fnrb"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "89B74171-D341-4F58-AA15-7E04B4418EFF",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/kgGFQ5hv/184C72FD-A45E-4208-BFF8-E7C181DA3D50.png",
+              "title": "Adventure Time"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193904,
+                    "listName": "The LEGO Movies",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "496512D7-A75A-4902-9305-78C46BC8A340",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/SRDVxJDx/F4F723AD-6CF5-4AF9-9056-14A5A2E3E3F9.png",
+              "title": "Lego"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193891,
+                    "listName": "Kung Fu Panda",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "08F22BDD-6451-45CA-B792-B2ECDEFCC474",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/sxwKgvwB/94DC7D32-A611-4AB1-9AE0-5700E4B4E25D.png",
+              "title": "Kung Fu Panda"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193894,
+                    "listName": "How to Train Your Dragon",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "8E665C05-348E-4D88-BD8F-0F24ABCD4D03",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/d34nVL4T/5E300756-33AE-48E2-B8E0-16C95BF990E7.png",
+              "title": "How to Train Your Dragon"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 199277,
+                    "listName": "The Incredibles",
+                    "username": "iamwills"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "DD35D35B-B8AD-4E74-86CC-193439A02136",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/hvpMtfpj/1418F819-38E5-4612-BF52-0003A960D1B1.png",
+              "title": "Incredibles"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193892,
+                    "listName": "Madagascar",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "466C655D-BDBF-4A00-ADD8-2A6FE0834104",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/g2cgX97B/6AA42FA7-A57B-436C-AE4D-2C447C4538F0.png",
+              "title": "Madagascar"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "mdbList",
+                  "payload": {
+                    "listId": 193893,
+                    "listName": "Hotel Transylvania",
+                    "username": "iamnotorious"
+                  }
+                }
+              ],
+              "hideTitle": false,
+              "id": "41E628F0-C5BC-46C0-B69F-025C9D65674B",
+              "imageAspect": "poster",
+              "imageURL": "https://i.postimg.cc/xTMfJKvD/C5660A75-D63D-4EA4-928E-E1CE66FAD44D.png",
+              "title": "Hotel Transylvania"
+            }
+          ]
+        }
+      },
+      "id": "collection.DDFB439C-2FBB-4BC1-8C61-7BD5C5085D21",
+      "title": "Animations",
+      "type": "collection.row"
+    }
+  ]
+}
